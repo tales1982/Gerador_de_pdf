@@ -15,3 +15,4 @@ Este projeto utiliza a biblioteca `FPDF` para gerar os PDFs. Para instalar as de
 
 ```bash
 pip install fpdf
+```
